@@ -27,40 +27,35 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## Some of The website's UI
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Home Page:
 
-### Premium Partners
+![kingHome](https://user-images.githubusercontent.com/71313563/152348267-bdc812e3-0024-4174-89ce-2cad9c17cbbb.PNG)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-- **[Romega Software](https://romegasoftware.com)**
+![kingLogin](https://user-images.githubusercontent.com/71313563/152348369-eee9a483-3987-4265-8e53-b5d3d6aa2d2d.PNG)
 
-## Contributing
+User Profile Page:
+![KingProfile](https://user-images.githubusercontent.com/71313563/152348649-5aca71cb-1b6a-4611-8f6f-75bcb1096fdb.PNG)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Writing Service Page:
+![KingService](https://user-images.githubusercontent.com/71313563/152348706-eac200e7-938b-4ffc-99bd-33db529d11d6.PNG)
 
-## Code of Conduct
+Subscription Page:
+![KingSubscription](https://user-images.githubusercontent.com/71313563/152348827-defd0d4a-dbcb-453d-992f-47eaaa8ac701.PNG)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Business Profile
+![KingBusinessProfile](https://user-images.githubusercontent.com/71313563/152348875-4706f15f-16b7-4001-ba75-19588a5edadc.PNG)
 
-## Security Vulnerabilities
+Press view page:
+![KingPress](https://user-images.githubusercontent.com/71313563/152348417-eccc505f-3784-41de-8757-9e442894e07b.PNG)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Creat Press Release Page:
+![KingAddRelease](https://user-images.githubusercontent.com/71313563/152349091-16b57279-1f28-4117-b1aa-33fa12380bed.PNG)
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
